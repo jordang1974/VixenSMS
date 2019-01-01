@@ -731,7 +731,7 @@ namespace Vixen_Messaging
 		private void ShortTimer()
 		{
 			timerCheckTwilio.Stop();
-			timerCheckTwilio.Interval = 200;
+			timerCheckTwilio.Interval = 800;
 			timerCheckTwilio.Start();
 		}
 
