@@ -1,0 +1,20 @@
+C:\Users\Study\Documents\Visual Studio 2013\Projects\Vixen Messaging\Release64\Common\Resources.dll
+C:\Users\Study\Documents\Visual Studio 2013\Projects\Vixen Messaging\Release64\Common\Resources.pdb
+C:\Users\Study\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Common.Resources.Properties.Resources.resources
+C:\Users\Study\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.csproj.GenerateResource.Cache
+C:\Users\Study\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.dll
+C:\Users\Study\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Release64\Common\Resources.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Release64\Common\Resources.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Common.Resources.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Vixen Messaging\Common\Resources\obj\x64\Release\Resources.pdb
+D:\Vixen-SMS_Email-3.4\Release64\Common\Resources.dll
+D:\Vixen-SMS_Email-3.4\Release64\Common\Resources.pdb
+D:\Vixen-SMS_Email-3.4\Common\Resources\obj\x64\Release\Resources.csprojResolveAssemblyReference.cache
+D:\Vixen-SMS_Email-3.4\Common\Resources\obj\x64\Release\Common.Resources.Properties.Resources.resources
+D:\Vixen-SMS_Email-3.4\Common\Resources\obj\x64\Release\Resources.csproj.GenerateResource.Cache
+D:\Vixen-SMS_Email-3.4\Common\Resources\obj\x64\Release\Resources.dll
+D:\Vixen-SMS_Email-3.4\Common\Resources\obj\x64\Release\Resources.pdb
